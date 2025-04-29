@@ -1,3 +1,1 @@
-# feature-login
-git clone https://github.com/imnani02/login-system.git
-cd login-system
+git clone https://github.com/tu_usuario/login-system.git
